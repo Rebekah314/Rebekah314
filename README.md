@@ -7,9 +7,8 @@ I am a data analyst and web developer with a PhD in physics. I have a passion fo
 
 Skills
 -
-* Data Analysis: Proficient in data cleaning, manipulation, visualization, and statistical analysis using Python, R, and SQL.
-* Machine Learning: Experience with machine learning algorithms for classification, regression, clustering, and natural language processing.
-* Web Development: Skilled in developing responsive web applications using JavaScript, React, HTML, CSS, and various frontend and backend frameworks.
+* Data Analysis: Proficient in data manipulation, visualization, and statistical analysis using Python and SQL.
+* Web Development: Skilled in developing responsive web applications using Java, Spring Boot, JavaScript, React, HTML, CSS, and MySQL.
 * Mathematics: Advanced knowledge in mathematical modeling, optimization, differential equations, linear algebra, and calculus.
 * Physics: Strong background in theoretical and computational physics, with expertise in quantum mechanics, statistical mechanics, and condensed matter physics.
 
