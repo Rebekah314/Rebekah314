@@ -14,9 +14,9 @@ Skills
 
 Web Developemnt Projects
 -
-* Task Management App, "One Thing": Created a RESTful task management application with JS/React frontend and Java/Spring backend, integrating MySQL for data storage.
+* Task Management App, "One Thing": Created a RESTful web service with JS/React frontend and Java/Spring backend, integrating MySQL for data storage.
 
-* Collaboration App, "Next Chapter: Developed a virtual “book club” app, facilitating community engagement and collaboration, with Java/Spring/Bootstrap/Thymeleaf/MySQL and utilizing external APIs.
+* Collaboration App, "Next Chapter": Developed a virtual book club app to facilitate community engagement and collaboration, with Java/Spring/Bootstrap/Thymeleaf/MySQL and utilizing external APIs.
 
 Education
 -
