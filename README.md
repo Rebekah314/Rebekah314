@@ -3,7 +3,7 @@
 
 About Me
 -
-I am a data analyst and web developer with a PhD in physics. I have a passion for leveraging data-driven insights and building interactive web applications. My expertise in mathematics enables me to approach complex problems with analytical rigor and creativity. My teaching experience demonstrates strong interpersonal communication and public speaking.
+I am a data analyst and web developer with a PhD in physics, and I am transitioning to dynamic desk-based work from traditional classroom- and laboratory-based work. I have a passion for leveraging data-driven insights and building interactive web applications. My expertise in mathematics enables me to approach complex problems with analytical rigor and creativity. My teaching experience demonstrates strong interpersonal communication and public speaking.
 
 Skills
 -
